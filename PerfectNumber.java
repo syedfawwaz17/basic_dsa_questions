@@ -11,7 +11,7 @@ public class PerfectNumber {
             }
         }
         if(sum==n)
-        System.out.println("Perfext number");
+        System.out.println("Perfect number");
         else
             System.out.println("Not a perfect number");
     }
